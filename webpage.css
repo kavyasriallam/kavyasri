@@ -110,47 +110,18 @@ body{
         width: 270px;
         font-size: 20px;
         }
-        .i1{
-           position: relative;
-        bottom: 98px;
-        left: -170px;
-  
-        }
-    .i2{
-        position: relative;
-        bottom: 55px;
-    
-
-    }
+       
     p{
         display: flex;
         justify-content: flex-end;
         
     }
-    .p1{
-        position: relative;
-        bottom: 43px;
-        color: gray;
-    }
-    .p2{
-        position: relative;
-        bottom: 141px; 
-        right: 5px;
-        color: gray;
-    }
-    .p3{
-        position: relative;
-        bottom: 171px;
-        font-size: 24px;
-    }
-    .p3__c1{
-        position: relative;
-        bottom: 26px;
-
-    }
+    
+   
+    
     .hr{
         position: relative;
-        bottom: -10px; 
+        bottom: 150px; 
         right: 5px;
     }
       .l1{
@@ -158,31 +129,7 @@ body{
             bottom:420px;
            }
     
-    .h1{
-       position: relative;
-       bottom:45px ;
-    }
-    .h1__c1{
-        width: 100px;
-        height: 20px;
-        position: relative;
-        bottom: 78px;
-    
-    }
-    .h2{
-        position: relative;
-       bottom:162px ;
-       left: 120px;
-   }
-   .h2__c2{
-        width: 100px;
-        height: 20px;
-        position: relative;
-        bottom: 196px;
-        left:115px;
-        
-
-   }
+   
    .fa-inr{
     position: relative;
     bottom: 194px;
@@ -272,16 +219,8 @@ body{
         bottom:130px;
         left:-25px
       }
-      .line{
-        position: relative;
-        top: 390px;
-      }
-       .header{
-        position: relative;
-        bottom: 200px;
-        left: -160px;
-        font-size: bold;
-     }
+     
+     
     
        .container5__2{
         flex: 1;
@@ -294,176 +233,9 @@ body{
        .container5__4{
         flex: 1;
        }
-        .check{
-        position: relative;
-        bottom: 210px;
-        font-size: 20px;
-    }
-    .more{
-        color: orange;
-        position: relative;
-        right: 160px;
-        bottom: 1050px;
-    }
-     .iname2{
-            position: relative;
-            bottom: 50px;
-
-        }
-        .iname3{
-            position: relative;
-            bottom: 100px;
-        }
-        .iname4{
-            position: relative;
-            bottom: 145px;
-        }
-        .iname5{
-            position: relative;
-            bottom:189px ;
-        }
-        
-       .line1{
-            position: relative;
-            bottom: 900px;
-        }
-        .pro1{
-            position: relative;
-            bottom: 4px;
-            right: 2px;
-        }
-        .pro2{
-        position: relative;
-        bottom: 52px;
-        right: 2px;
-       } 
-       .pro3{
-        position: relative;
-        bottom: 100px;
-        right: 2px;
-
-       }
-       .pro4{
-        position: relative;
-        bottom: 145px;
-        right: 2px;
-       }
-        .pro5{
-         position: relative;
-        bottom: 189px;
-        right: 2px;
-       }
-        .graph1{
-        position: relative;
-        bottom: 48px;
-        color: gray;
-      }
-      .graph2{
-        position: relative;
-        bottom: 99px;
-         color: gray;
-        
-      }
-      .graph3{
-          position: relative;
-          bottom: 148px;
-           color: gray;
-        }
-        .graph4{
-            position: relative;
-          bottom: 192px;
-           color: gray;
-        }
-         .graph5{
-         position: relative;
-          bottom: 195px;
-           color: gray;
-        }
-        .show{
-              color: orange;
-        position: relative;
-        right: 130px;
-        bottom: 410px;
-
-           }
-           
-        .head{
-            position: relative;
-            bottom: 600px;
-            right: 190px;
     
-        }
-        .s0{
-            position: relative;
-            bottom:610px;
-        }
-        .s5{
-            position: relative;
-            bottom:700px; 
-        }
-        .s2{
-             position: relative;
-            bottom:790px;
-        }
-        .s3{
-         position: relative;
-            bottom:880px;
-            }
-            .s4{
-                position: relative;
-            bottom:965px;
-            }
-        .gram{
-        position:relative;
-        bottom: 654px;
-        right: 230px;
-       }
-       .gram1{
-         position:relative;
-          bottom: 744px;
-        right: 220px;
-       }
-       .gram2{
-         position:relative;
-        bottom: 833px;
-        right: 220px;
-       }
-       .gram3{
-         position:relative;
-        bottom: 924px;
-        right: 210px;
-       }
-       .gram4{
-         position:relative;
-         bottom: 1010px;
-        right: 210px;
-       }
-       .para1{
-            position: relative;
-            bottom:700px;
-            color: gray;
-        }
-         .para2{
-            position: relative;
-            bottom:790px;
-             color: gray;
-        }
-        .para3{
-            position: relative;
-            bottom:879px;
-             color: gray;
-        }
-        .para4{
-            position: relative;
-            bottom:972px;
-             color: gray;
-        }
-         .para5{
-            position: relative;
-            bottom:1052px;
-             color: gray;
-        }
-       
+    
+     
         .best{
             border: 1px solid gray;
             border-radius: 6px;
@@ -681,12 +453,7 @@ body{
             width: 100%;
             
         }
-        
-       .footer{
-       
-       
-       
-       }
+    
        .l3{
         position: relative;
         bottom: 520px;
@@ -724,6 +491,8 @@ body{
         text-decoration: none;
         margin-bottom: 10px;
         padding-left: 350px;
+         position: relative;
+        top:550px;
         color: white;
           
         }
@@ -732,20 +501,22 @@ body{
         flex: 1px;
         color: black;
         text-decoration: none;
-        margin-bottom: 10px;
+        margin-top:10px;
         padding-left: 350px;
+        position: relative;
+        top:520px;
         color: white;
           
         }
-        .l2{
-            position: relative;
-            bottom: 910px;
-        }
+       
          .copyright{
-        color: white;
+        color:white;
         display: flex;
-        position: relative;
-        bottom: 910px;
-        left: 150px;
+       position: relative;
+       top:560px;
+       right:400px;
+       
+        
+       
         
        }
