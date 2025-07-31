@@ -36,9 +36,7 @@ body{
         font-size: 30px;
         position: relative;
         top: -25px;
-        
-
-    }
+}
     .container3{
     display: flex;
     position: relative;
@@ -47,9 +45,7 @@ body{
 
    }
    
-   
-   
-   .c1{
+.c1{
     color: orange;
    }
    .container4{
@@ -67,10 +63,7 @@ body{
        padding: 4px;
         width: 80px;
         height: 30px;
-        
-        
-        
-       }
+ }
     
        .fil{
         position: relative;
@@ -78,11 +71,6 @@ body{
         left: 6px;
        }
       
-       .child{
-        border: 1px solid gray;
-        border-radius: 10px;
-        padding: 3px;
-       }
        .container4__c2{
         display: flex;
         gap:40px;
@@ -102,33 +90,31 @@ body{
        }
     
        .container5{
-        display: flex;
-        justify-content: space-between;
+       
+    display: flex;
+    justify-content: space-between;
         
+       }
+       .head{
+        display: flex;
+        justify-content: flex-start;
+       }
+
+       .show{
+        display: flex;
+        justify-content: flex-start;
        }
        .container5__c1{
         width: 270px;
         font-size: 20px;
+        padding-left: 20px;
         }
        
     p{
         display: flex;
-        justify-content: flex-end;
+        justify-content:flex-end;
         
     }
-    
-   
-    
-    .hr{
-        position: relative;
-        bottom: 150px; 
-        right: 5px;
-    }
-      .l1{
-              position: relative;
-            bottom:420px;
-           }
-    
    
    .fa-inr{
     position: relative;
@@ -435,17 +421,7 @@ body{
         }
            
           
-        .j1{
-            display: flex;
-            justify-content: center;
-            height: 50vh;
-            align-items: center;
-            position: relative;
-            top:400px;
-            right:500px;
-        
-        }
-        .logo{
+          .logo{
             text-align: center;
             background-color: orange;
             height: 90vh;
@@ -454,13 +430,6 @@ body{
             
         }
     
-       .l3{
-        position: relative;
-        bottom: 520px;
-        border:1px solid gray;
-       }
-    
-
        .footer__c1{
         font-size: 14px;
         position: relative;
@@ -469,11 +438,7 @@ body{
         font-size: 20px;
        
        }
-       .link{
-        display: block;
-        margin-bottom: 25px;
-        padding-left: 350px;
-       }
+      
       
        .footer__c2{
         margin-left:500px;
@@ -506,17 +471,12 @@ body{
         position: relative;
         top:520px;
         color: white;
-          
-        }
+    }
        
-         .copyright{
+ .copyright{
         color:white;
         display: flex;
        position: relative;
        top:560px;
        right:400px;
-       
-        
-       
-        
-       }
+    }
