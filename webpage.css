@@ -193,7 +193,7 @@ body{
  button{
         border: 1px solid gray;
         border-radius: 6px;
-        background-color: maroon;
+        background-color: #c78c6a;
         padding: 10px;
         width: 190px;
         position: relative;
@@ -219,10 +219,7 @@ body{
        .container5__4{
         flex: 1;
        }
-    
-    
-     
-        .best{
+    .best{
             border: 1px solid gray;
             border-radius: 6px;
             padding: 3px;
@@ -480,3 +477,11 @@ body{
        top:560px;
        right:400px;
     }
+    label{
+        color: gray;
+        padding-left: 45px;
+    }
+    button:hover{
+        background-color: pink;
+    }
+    
