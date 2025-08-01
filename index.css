@@ -1,0 +1,487 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.container__head{
+            background-color: orange;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-weight: bold;
+            
+        }
+     .container1{
+        background-color: white;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        position: sticky;
+        top: 0px;
+        
+    }
+    .container1__child{
+        display: flex;
+        gap: 40px;
+    }
+    .container1__child1{
+        display: flex;
+        gap: 40px;
+        
+    }
+    .container2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 30px;
+        position: relative;
+        top: -25px;
+}
+    .container3{
+    display: flex;
+    position: relative;
+    bottom: 50px;
+    left: 90px;
+
+   }
+   
+.c1{
+    color: orange;
+   }
+   .container4{
+        display: flex;
+        justify-content: space-around;
+        font-size:20px;
+        position: relative;
+        top:-10px;
+    
+       }
+       .container4__c1{
+        display: flex;
+       border: 1px solid gray;
+       border-radius: 10px;
+       padding: 4px;
+        width: 80px;
+        height: 30px;
+ }
+    
+       .fil{
+        position: relative;
+        bottom: -4px;
+        left: 6px;
+       }
+      
+       .container4__c2{
+        display: flex;
+        gap:40px;
+        justify-content: space-between;
+        align-items: center;
+        position: relative;
+        left: 190px;
+       }
+       .container4__c3{
+        display: flex;
+        position: relative;
+        border: 1px solid gray;
+        border-radius: 5px;
+        width: 120px;
+        height: 30px
+       
+       }
+    
+       .container5{
+       
+    display: flex;
+    justify-content: space-between;
+        
+       }
+       .head{
+        display: flex;
+        justify-content: flex-start;
+       }
+
+       .show{
+        display: flex;
+        justify-content: flex-start;
+       }
+       .container5__c1{
+        width: 270px;
+        font-size: 20px;
+        padding-left: 20px;
+        }
+       
+    p{
+        display: flex;
+        justify-content:flex-end;
+        
+    }
+   
+   .fa-inr{
+    position: relative;
+    bottom: 194px;
+    font-size: 15px;
+    left:6px;
+
+   }
+.fa-rupee{
+    position: relative;
+    bottom: 77px;
+    right: 112px;
+    font-size: 15px;
+}
+        .container5__c2 img{
+                width: 250px;
+                height: 250px;
+        }
+        .container5__1{
+        flex: 1;
+        
+       }
+       .checked {
+  color: orange;
+ 
+}
+       .s1{
+      display: flex;
+      justify-content: center;
+      height: 10vh;
+      align-items: center;
+      gap: 10px;
+     }
+     .pname{
+        display: flex;
+        justify-content: center;
+       position: relative;
+       bottom: 30px;
+       font-size: 25px;
+        
+     }
+     .grams{
+        width: 169px;
+        height:35px;
+       position: relative;
+       bottom: 40px;
+       left: 40px;
+    }
+    .cost{
+    font-size: 20px;
+    font-weight: bold;
+    color: maroon ;
+    position: relative;
+    bottom: 50px;
+    right:120px;
+}
+.costs{
+    font-size: 20px;
+    font-weight: bold;
+    color: maroon ;
+    position: relative;
+    bottom: 110px;
+    right:110px;
+
+}
+.strike{
+    position: relative;
+    bottom: 170px;
+    left: 150px;
+}
+.strikes{
+    position: relative;
+    bottom:175px;
+    left:145px
+}
+ button{
+        border: 1px solid gray;
+        border-radius: 6px;
+        background-color: #c78c6a;
+        padding: 10px;
+        width: 190px;
+        position: relative;
+        bottom: 60px;
+        left:30px
+      }
+      .b1{
+        position: relative;
+        bottom:130px;
+        left:-25px
+      }
+     
+     
+    
+       .container5__2{
+        flex: 1;
+        
+       }
+       .container5__3{
+        flex: 1;
+        
+       }
+       .container5__4{
+        flex: 1;
+       }
+    .best{
+            border: 1px solid gray;
+            border-radius: 6px;
+            padding: 3px;
+            width: 100px;
+            height: 20px;
+            text-align: center;
+            background-color: orange;
+            position: relative;
+            bottom: 558px;
+        }
+        .best4{
+            border: 1px solid gray;
+            border-radius: 6px;
+            padding: 3px;
+            width: 100px;
+            height: 20px;
+            text-align: center;
+            background-color: orange;
+            position: relative;
+            bottom: 577px;
+
+        }
+        .best3{
+            border: 1px solid gray;
+            border-radius: 6px;
+            padding: 3px;
+            width: 100px;
+            height: 20px;
+            text-align: center;
+            background-color: orange;
+            position: relative;
+            bottom: 659px;
+        }
+        .best1{
+            border: 1px solid gray;
+            border-radius: 6px;
+            padding: 3px;
+            width: 100px;
+            height: 20px;
+            text-align: center;
+            background-color: orange;
+            position: relative;
+            bottom: 657px;
+        }
+        .save{
+             border: 1px solid gray;
+            border-radius: 6px;
+            padding: 3px;
+            width: 60px;
+            height: 40px;
+            text-align: center;
+            background-color: green;
+            position: relative;
+            bottom: 686px;
+            left: 183px;
+
+        }
+        .save1{
+              border: 1px solid gray;
+            border-radius: 6px;
+            padding: 3px;
+            width: 60px;
+            height: 25px;
+            text-align: center;
+            background-color: green;
+            position: relative;
+            bottom: 587px;
+            left: 183px;
+        }
+        .save2{
+              border: 1px solid gray;
+            border-radius: 6px;
+            padding: 3px;
+            width: 60px;
+            height: 40px;
+            text-align: center;
+            background-color: green;
+            position: relative;
+            bottom: 686px;
+            left: 183px;
+
+        }
+        .save3{
+              border: 1px solid gray;
+            border-radius: 6px;
+            padding: 3px;
+            width: 60px;
+            height: 20px;
+            text-align: center;
+            background-color: green;
+            position: relative;
+            bottom: 604px;
+            left: 183px;
+           }
+           .container7{
+           position: relative;
+           bottom: 180px;
+           left: 6px;
+           }
+           .container8{
+            position: relative;
+           bottom: 66px;
+           left: 6px;
+
+           }
+           .container9{
+           position: relative;
+           bottom: 180px;
+           left: 6px;
+           }
+           .container10{
+            position:relative;
+            bottom: 78px;
+           }
+           .sell{
+             border: 1px solid gray;
+            border-radius: 6px;
+            padding: 3px;
+            width: 100px;
+            height: 20px;
+            text-align: center;
+            background-color: orange;
+            position: relative;
+            bottom: 530px;
+           }
+           .sell1{
+            border: 1px solid gray;
+            border-radius: 6px;
+            padding: 3px;
+            width: 100px;
+            height: 20px;
+            text-align: center;
+            background-color: orange;
+            position: relative;
+            bottom: 559px;
+           }
+           .saves{
+             border: 1px solid gray;
+            border-radius: 6px;
+            padding: 3px;
+            width: 60px;
+            height: 25px;
+            text-align: center;
+            background-color: green;
+            position: relative;
+            bottom: 24px;
+            left: 178px;
+           }
+          
+           .saves2{
+             border: 1px solid gray;
+            border-radius: 6px;
+            padding: 3px;
+            width: 60px;
+            height: 25px;
+            text-align: center;
+            background-color: green;
+            position: relative;
+            bottom: 559px;
+            left: 180px;
+           }
+           .saves3{
+            border: 1px solid gray;
+            border-radius: 6px;
+            padding: 3px;
+            width: 60px;
+            height: 25px;
+            text-align: center;
+            background-color: green;
+            position: relative;
+            bottom: 530px;
+            left: 180px;
+           }
+
+           .farm1{
+            
+           position: relative;
+           bottom: 200px;
+           left: 6px;
+           }
+           .farm2{
+             position: relative;
+           bottom: 85px;
+           left: 6px;
+        }
+        .farm3{
+            position: relative;
+           bottom: 199px;
+           left: 6px;
+
+        }
+        .farm4{
+           position: relative;
+           bottom: 126px;
+           left: 6px;
+        }
+           
+          
+          .logo{
+            text-align: center;
+            background-color: orange;
+            height: 90vh;
+            padding: 40px;
+            width: 100%;
+            
+        }
+    
+       .footer__c1{
+        font-size: 14px;
+        position: relative;
+        bottom: 470px;
+        color: white;
+        font-size: 20px;
+       
+       }
+      
+      
+       .footer__c2{
+        margin-left:500px;
+        padding-bottom: 200px;
+        position: relative;
+        bottom: 720px;
+        font-size: 20px;
+
+       }
+    
+        .footer__c1 a{
+             display: flex;
+        flex: 1px;
+        color: black;
+        text-decoration: none;
+        margin-bottom: 10px;
+        padding-left: 350px;
+         position: relative;
+        top:550px;
+        color: white;
+          
+        }
+        .footer__c2 a{
+             display: flex;
+        flex: 1px;
+        color: black;
+        text-decoration: none;
+        margin-top:10px;
+        padding-left: 350px;
+        position: relative;
+        top:520px;
+        color: white;
+    }
+       
+ .copyright{
+        color:white;
+        display: flex;
+       position: relative;
+       top:560px;
+       right:400px;
+    }
+    label{
+        color: gray;
+        padding-left: 45px;
+    }
+    button:hover{
+        background-color: pink;
+    }
+    
